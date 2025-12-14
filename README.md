@@ -1,11 +1,7 @@
 <h1 align="center">Hi , I'm Rasheed Asfar</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raythons" alt="raythons" />
-  </a> 
-</p>
+
 
 - 🌱 I’m currently learning **Distributed Systems**
 
@@ -59,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" alt="aspnet" width="40" height="40"/> 
   </a>
   <a href="https://debezium.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/debezium/debezium/main/docs/images/debezium-logo.svg" alt="debezium" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/debeziumio/debeziumio-icon.svg" alt="debezium" width="40" height="40"/> 
   </a>
   <a href="https://redpanda.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/redpanda-data/redpanda/master/docs/images/redpanda.svg" alt="redpanda" width="40" height="40"/> 
