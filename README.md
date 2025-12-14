@@ -52,12 +52,10 @@
   </a>
   <!-- New Skills -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg" alt="aspnet" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="aspnet" width="40" height="40"/> 
   </a>
   <a href="https://debezium.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/debeziumio/debeziumio-icon.svg" alt="debezium" width="40" height="40"/> 
   </a>
-  <a href="https://redpanda.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/redpanda-data/redpanda/master/docs/images/redpanda.svg" alt="redpanda" width="40" height="40"/> 
-  </a>
+
 </p>
